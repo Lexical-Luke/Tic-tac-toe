@@ -1,0 +1,41 @@
+C:\Users\p.wentworth\Documents\cs1_teaching\2015\ProgrammingII\Pracs\Prac04_Cesaro_and_XoX_Skeleton\XoX\bin\Debug\XoX.exe
+C:\Users\p.wentworth\Documents\cs1_teaching\2015\ProgrammingII\Pracs\Prac04_Cesaro_and_XoX_Skeleton\XoX\bin\Debug\XoX.pdb
+C:\Users\p.wentworth\Documents\cs1_teaching\2015\ProgrammingII\Pracs\Prac04_Cesaro_and_XoX_Skeleton\XoX\bin\Debug\ThinkLib.dll
+C:\Users\p.wentworth\Documents\cs1_teaching\2015\ProgrammingII\Pracs\Prac04_Cesaro_and_XoX_Skeleton\XoX\bin\Debug\ThinkLib.xml
+C:\Users\p.wentworth\Documents\cs1_teaching\2015\ProgrammingII\Pracs\Prac04_Cesaro_and_XoX_Skeleton\XoX\obj\x86\Debug\XoX_GUI.baml
+C:\Users\p.wentworth\Documents\cs1_teaching\2015\ProgrammingII\Pracs\Prac04_Cesaro_and_XoX_Skeleton\XoX\obj\x86\Debug\XoX_GUI.g.cs
+C:\Users\p.wentworth\Documents\cs1_teaching\2015\ProgrammingII\Pracs\Prac04_Cesaro_and_XoX_Skeleton\XoX\obj\x86\Debug\App.g.cs
+C:\Users\p.wentworth\Documents\cs1_teaching\2015\ProgrammingII\Pracs\Prac04_Cesaro_and_XoX_Skeleton\XoX\obj\x86\Debug\XoX_MarkupCompile.cache
+C:\Users\p.wentworth\Documents\cs1_teaching\2015\ProgrammingII\Pracs\Prac04_Cesaro_and_XoX_Skeleton\XoX\obj\x86\Debug\XoX.g.resources
+C:\Users\p.wentworth\Documents\cs1_teaching\2015\ProgrammingII\Pracs\Prac04_Cesaro_and_XoX_Skeleton\XoX\obj\x86\Debug\XoX.Properties.Resources.resources
+C:\Users\p.wentworth\Documents\cs1_teaching\2015\ProgrammingII\Pracs\Prac04_Cesaro_and_XoX_Skeleton\XoX\obj\x86\Debug\XoX.csproj.GenerateResource.Cache
+C:\Users\p.wentworth\Documents\cs1_teaching\2015\ProgrammingII\Pracs\Prac04_Cesaro_and_XoX_Skeleton\XoX\obj\x86\Debug\XoX.exe
+C:\Users\p.wentworth\Documents\cs1_teaching\2015\ProgrammingII\Pracs\Prac04_Cesaro_and_XoX_Skeleton\XoX\obj\x86\Debug\XoX.pdb
+D:\Documents\Teaching and Learning\CSc 101\cs1_teaching\2015\ProgrammingII\Pracs\Prac04_Cesaro_and_XoX_Skeleton\XoX\obj\x86\Debug\XoX.exe
+D:\Documents\Teaching and Learning\CSc 101\cs1_teaching\2015\ProgrammingII\Pracs\Prac04_Cesaro_and_XoX_Skeleton\XoX\obj\x86\Debug\XoX.pdb
+D:\Documents\Teaching and Learning\CSc 101\cs1_teaching\2015\ProgrammingII\Pracs\Prac04_Cesaro_and_XoX_Skeleton\XoX\bin\Debug\XoX.exe
+D:\Documents\Teaching and Learning\CSc 101\cs1_teaching\2015\ProgrammingII\Pracs\Prac04_Cesaro_and_XoX_Skeleton\XoX\bin\Debug\XoX.pdb
+D:\Documents\Teaching and Learning\CSc 101\cs1_teaching\2015\ProgrammingII\Pracs\Prac04_Cesaro_and_XoX_Skeleton\XoX\bin\Debug\ThinkLib.dll
+D:\Documents\Teaching and Learning\CSc 101\cs1_teaching\2015\ProgrammingII\Pracs\Prac04_Cesaro_and_XoX_Skeleton\XoX\bin\Debug\ThinkLib.xml
+D:\Documents\Teaching and Learning\CSc 101\cs1_teaching\2015\ProgrammingII\Pracs\Prac04_Cesaro_and_XoX_Skeleton\XoX\obj\x86\Debug\XoX.csprojResolveAssemblyReference.cache
+D:\Documents\Teaching and Learning\CSc 101\cs1_teaching\2015\ProgrammingII\Pracs\Prac04_Cesaro_and_XoX_Skeleton\XoX\obj\x86\Debug\XoX_GUI.baml
+D:\Documents\Teaching and Learning\CSc 101\cs1_teaching\2015\ProgrammingII\Pracs\Prac04_Cesaro_and_XoX_Skeleton\XoX\obj\x86\Debug\XoX_GUI.g.cs
+D:\Documents\Teaching and Learning\CSc 101\cs1_teaching\2015\ProgrammingII\Pracs\Prac04_Cesaro_and_XoX_Skeleton\XoX\obj\x86\Debug\App.g.cs
+D:\Documents\Teaching and Learning\CSc 101\cs1_teaching\2015\ProgrammingII\Pracs\Prac04_Cesaro_and_XoX_Skeleton\XoX\obj\x86\Debug\XoX_MarkupCompile.cache
+D:\Documents\Teaching and Learning\CSc 101\cs1_teaching\2015\ProgrammingII\Pracs\Prac04_Cesaro_and_XoX_Skeleton\XoX\obj\x86\Debug\XoX.g.resources
+D:\Documents\Teaching and Learning\CSc 101\cs1_teaching\2015\ProgrammingII\Pracs\Prac04_Cesaro_and_XoX_Skeleton\XoX\obj\x86\Debug\XoX.Properties.Resources.resources
+D:\Documents\Teaching and Learning\CSc 101\cs1_teaching\2015\ProgrammingII\Pracs\Prac04_Cesaro_and_XoX_Skeleton\XoX\obj\x86\Debug\XoX.csproj.GenerateResource.Cache
+\\Mac\Home\Documents\Visual Studio 2015\Projects\Prac06_XoX_Skeleton\XoX\bin\Debug\XoX.exe
+\\Mac\Home\Documents\Visual Studio 2015\Projects\Prac06_XoX_Skeleton\XoX\bin\Debug\XoX.pdb
+\\Mac\Home\Documents\Visual Studio 2015\Projects\Prac06_XoX_Skeleton\XoX\bin\Debug\ThinkLib.dll
+\\Mac\Home\Documents\Visual Studio 2015\Projects\Prac06_XoX_Skeleton\XoX\bin\Debug\ThinkLib.xml
+\\Mac\Home\Documents\Visual Studio 2015\Projects\Prac06_XoX_Skeleton\XoX\obj\x86\Debug\XoX.csprojResolveAssemblyReference.cache
+\\Mac\Home\Documents\Visual Studio 2015\Projects\Prac06_XoX_Skeleton\XoX\obj\x86\Debug\XoX_GUI.baml
+\\Mac\Home\Documents\Visual Studio 2015\Projects\Prac06_XoX_Skeleton\XoX\obj\x86\Debug\XoX_GUI.g.cs
+\\Mac\Home\Documents\Visual Studio 2015\Projects\Prac06_XoX_Skeleton\XoX\obj\x86\Debug\App.g.cs
+\\Mac\Home\Documents\Visual Studio 2015\Projects\Prac06_XoX_Skeleton\XoX\obj\x86\Debug\XoX_MarkupCompile.cache
+\\Mac\Home\Documents\Visual Studio 2015\Projects\Prac06_XoX_Skeleton\XoX\obj\x86\Debug\XoX.g.resources
+\\Mac\Home\Documents\Visual Studio 2015\Projects\Prac06_XoX_Skeleton\XoX\obj\x86\Debug\XoX.Properties.Resources.resources
+\\Mac\Home\Documents\Visual Studio 2015\Projects\Prac06_XoX_Skeleton\XoX\obj\x86\Debug\XoX.csproj.GenerateResource.Cache
+\\Mac\Home\Documents\Visual Studio 2015\Projects\Prac06_XoX_Skeleton\XoX\obj\x86\Debug\XoX.exe
+\\Mac\Home\Documents\Visual Studio 2015\Projects\Prac06_XoX_Skeleton\XoX\obj\x86\Debug\XoX.pdb

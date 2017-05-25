@@ -1,0 +1,16 @@
+﻿<Window x:Class="XoX.XoX_GUI"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="Noughts and Crosses" Height="352" Width="348" KeyDown="Window_KeyDown" SizeChanged="Window_SizeChanged">
+    <Grid Name="grid1">
+        <Canvas HorizontalAlignment="Left" Margin="23,41,26,7" Name="playground" VerticalAlignment="Top" MouseDown="playground_MouseDown" Width="750" Height="750" >
+            <Canvas.Background>
+                <ImageBrush ImageSource="/XoX;component/xox_background.png" />
+            </Canvas.Background>
+        </Canvas>
+        <Label Content="   Wins:     Losses:     Draws:" Height="35" HorizontalAlignment="Left" Name="lblScores" VerticalAlignment="Top" Width="326" FontSize="20" FontFamily="Comic Sans MS" />
+        <Label Content="0" Height="35" HorizontalAlignment="Left" x:Name="lblDraws" VerticalAlignment="Top" Width="22" FontSize="20" FontFamily="Comic Sans MS" Margin="262,0,0,0" />
+        <Label Content="0" Height="35" HorizontalAlignment="Left" x:Name="lblLosses" VerticalAlignment="Top" Width="22" FontSize="20" FontFamily="Comic Sans MS" Margin="167,0,0,0" />
+        <Label Content="0" Height="35" HorizontalAlignment="Left" x:Name="lblWins" VerticalAlignment="Top" Width="22" FontSize="20" FontFamily="Comic Sans MS" Margin="70,0,0,0" />
+    </Grid>
+</Window>
